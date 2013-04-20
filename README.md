@@ -1,3 +1,5 @@
+Newer and "better" version: https://github.com/richrace/Mars-Rover
+
 Introduction
 ================================
 
@@ -16,8 +18,7 @@ The full example can be found in the "application_spec.rb" file, this is outputs
 the data on the screen when running the tests.
 
 
-Design 
-================================
+## Design 
 
 The design is based on two main objects: Rover and Grid
 
@@ -42,8 +43,7 @@ Future development could be introducing a Command Line Interface that creates
 the string in the required format or reading in a file.
 
 
-Assumptions
-================================
+## Assumptions
 
 It is assumed that the input will always stay in the same format:
 	1. Grid Size
