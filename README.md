@@ -1,6 +1,6 @@
 Newer and "better" version: https://github.com/richrace/Mars-Rover
 
-[![Build Status](https://travis-ci.org/richrace/Mars-Rover-First-Attempt.png?branch=master)](https://travis-ci.org/richrace/Mars-Rover)
+[![Build Status](https://travis-ci.org/richrace/Mars-Rover-First-Attempt.png?branch=master)](https://travis-ci.org/richrace/Mars-Rover-First-Attempt)
 
 Introduction
 ================================
